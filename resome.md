@@ -1,18 +1,18 @@
-# Yasaman Saffari
+# Shaghayegh Saffari
 
-![Alt Text](https://i.ibb.co/vvVfYt6/yasaman1.jpg)
-**PhD Candidate - Kashan University, Iran**
+![Alt Text]([https://i.ibb.co/vvVfYt6/yasaman1.jpg](https://s6.uupload.ir/files/sh_eal7.jpeg)
+**PhD Candidate - Semnan University, Iran**
 ***************************
-📧 Email: yasamansaffarii@gmail.com
-📞 Phone: +989377553756
+📧 Email: shaqayeq.saffari397@gmail.com
+📞 Phone: +989377553744
 🌍 Location: Iran, Tehran
 ******************
 [LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73)
  | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari)
- | [Github](https://github.com/yasamansaffarii)| [CV-Short](https://yasamansaffarii.github.io/YasamanShortCV.pdf) | [CV-Medium](https://yasamansaffarii.github.io/YasamanMediumCV.pdf)
+ | [Github]([https://github.com/yasamansaffarii](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/edit/main/resome.md))
 **********************
 # About me
-I am currently pursuing my Ph.D. at [Kashan University](https://kashanu.ac.ir/en), under the guidance of [Dr. Salimi](https://scholar.google.co.uk/citations?hl=en&user=7ZCf1C8AAAAJ&view_op=list_works&sortby=pubdate). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
+I am currently pursuing my Ph.D. at [Semnan University](https://semnan.ac.ir/), under the guidance of [Dr. dorrigiv](https://dorrigiv.profile.semnan.ac.ir/#home). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
 
 My master's degree is in Intelligent Simulator Design from Tabriz Islamic Art University, with a thesis focused on exploring the influential factors of speech phonology through simulating lasting voices in dubbing, employing Voice Cloning using Deep Neural Networks. In addition to my thesis, during the master's program, I developed a VR dance teaching application. I have professional experience with VR equipment such as HTCVIVE and Neuron Mocap. Furthermore, I have expertise in teaching music production in FL Studio.
 
@@ -23,7 +23,7 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - DQN Variants
 - Attentional Based State Representation
 - Topological State Representation (Graphs)
-- Node2Vec, GraphSage
+- Reward Learning, Reward Shaping
 - Python
 - Tensorflow (Keras)
 ***************
