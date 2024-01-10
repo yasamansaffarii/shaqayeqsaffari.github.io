@@ -43,14 +43,14 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 
 ### Bachelor of Software Computer Engineering
 ***Government-Technical and Engineering Buin Zahra University***
-*2015 - 2018*
+*2014 - 2018*
 - Dr. Saman Shishehchi
 - Thesis: 
 - GPA: 15.60/20
 ********************
 
 ### Internship: Web Developer
-***Feb 2017 - June 2017***
+***June 2017 - September 2017***
 *Website design company, private, Tehran, Palestine St*
 - Developed and maintained dynamic websites with ASP.Net, VScode as the development environment.
 - Utilized HTML, CSS, JavaScript, and C# to create interactive and user-friendly web interfaces.
@@ -59,11 +59,11 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 ## Teaching Experience
 - **Invited Lecturer** ( 2022 - 2023): DataBase (my sql) (Bachelor students), Electrical and Computer Engineering Dept., Semnan Univ., Iran
 - **Invited Lecturer**  ( 2022 - 2024): Laboratory of computer networks (Cisco Packet Tracer) (Bachelor students), Electrical and Computer Engineering Dept., Semnan Univ., Iran
-- **Teaching Assistant** (Sep 2015 - Feb 2016): Teaching game development with Unity to senior students (Dr. Sediqi), Abrar Girls Technical Engineering University, Tehran, Iran
-- **Teaching Assistant** (Sep 2015 - Feb 2016): Teaching website design with php to senior students (Dr. Shiri), Abrar Girls Technical Engineering University, Tehran, Iran
+- **Teaching Assistant** ( October 2019 - Feb 2020): Teaching game development with Unity to senior students (Dr. Sediqi), Abrar Girls Technical Engineering University, Tehran, Iran
+- **Teaching Assistant** (October 2018 - Feb 2019): Teaching website design with php to senior students (Dr. Shiri), Abrar Girls Technical Engineering University, Tehran, Iran
 *******************
 ## Projects
-**Dialogue system (2019-Present)**
+**Dialogue system (October 2021-Present)**
 *PHD thesis (Supervisor: Dr. Dorrigiv)*
 - Semnan University, Iran
 - Deep Reinforcment Learning
@@ -72,9 +72,8 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - Reward Learning
 - State representation learning
  
-****COVID-19 Prediction ( 2021 -  2022)****
+****COVID-19 Prediction ( 2021 )****
 - Linear regression, gradient boosting regression, k-neighbors regression, decision tree regression, and random forest regression
- 
 
 **Troublesome Travel Game (2020)**
 *The first rank of Global Game Jam 2020*
@@ -82,8 +81,8 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - 3D game, Unity, C#
 - Atlas Team (Role:Programmer)
   
-- **Implementation of an Application for Insurance (Sep 2015 - Feb 2016):** PHP language in Adobe Dreamweaver, Software engineering, Abrar Girls Technical Engineering University, Tehran, Iran
-- 
+- **Implementation of an Application for Insurance (October 2018 - Feb 2019):** PHP language in Adobe Dreamweaver, Software engineering, Abrar Girls Technical Engineering University, Tehran, Iran
+
  *********************
 ## Small Projects
 - **3D Happy Pencil Game (Feb 2019):** *Global Game Jam international event*, Game scoring system, Code and Play: [Happy Pencil](https://v3.globalgamejam.org/2019/games/happypencil), MultiMedia Department, Tabriz Islamic Art University, Iran
