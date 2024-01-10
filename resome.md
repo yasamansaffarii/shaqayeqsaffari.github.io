@@ -4,7 +4,7 @@
 **PhD Candidate - Semnan University, Iran**
 ***************************
 📧 Email: shaqayeq.saffari397@gmail.com
-📞 Phone: +989377553744
+📞 Phone: 
 🌍 Location: Iran, Tehran
 ******************
  [Github](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/edit/main/resome.md)
