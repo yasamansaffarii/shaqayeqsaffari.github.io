@@ -1,4 +1,4 @@
-![image](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/assets/94288799/197605db-cef2-493a-ad2d-18d666ffe8aa)# Shaghayegh Saffari
+# Shaghayegh Saffari
 
 ![Alt Text]
 **PhD Candidate - Semnan University, Iran**
@@ -48,93 +48,52 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - Thesis: 
 - GPA: 15.60/20
 ********************
-## Publications
-**Not published (Y Saffari, J Salimi Sartakhti)**
-1. StateStruc: Infused Graph-Structural State Embeddings in Dialogue System (*Under Prep*)
-2. CODACAN : Distributional Actor Critic with Hierarchical Attention-based State Representation for Dialogue Policy Learning (*Under review: Knowledge-Based Systems*)
-
-**Published**
-1. Y Saffari, J Salimi Sartakhti, "Actor Double Critic Architecture for Dialogue System," *Journal of Electrical and Computer Engineering Innovations (JECEI)*, 11 (2), 2023
-2. SA Faregh, Y Saffari, M Jafari Sisis, "The Impact of Gamification on the Teaching and Learning Process of Conflict Management," *Technology of Education Journal (TEJ)*, 15 (4), 657-672, 2021
-3. Y Saffari, A Ghaffari, L Dobakhi, B Alizade-Ashrafi, "Computer Games for Dubbing Teaching: The 'Dublor Sho' Game," *The 5th International Conference on Computer Games; Challenges and Opportunities*, 2020
-4. Y Saffari, S Nasre-Esfahani, R Hayati, Y Sekhavat, " Eng Title: Investigating the effectiveness of teaching based on movement imitation in a virtual reality environment for Azari dance," *The 4th International Conference on Computer Games; Challenges and Opportunities*, 2019
-********************
-## Lab and Visiting Experience
-
 
 ### Internship: Web Developer
-***Feb 2016 - June 2016***
-*Ministry of Cooperatives Labour and Social Welfare (ICT)*
-- Developed and maintained dynamic websites using XAMPP as the local server, Dreamweaver as the development environment, CodeIgniter as the PHP framework, and MySQL as the database.
-- Utilized HTML, CSS, JavaScript, and PHP to create interactive and user-friendly web interfaces.
+***Feb 2017 - June 2017***
+*Website design company, private, Tehran, Palestine St*
+- Developed and maintained dynamic websites with ASP.Net, VScode as the development environment.
+- Utilized HTML, CSS, JavaScript, and C# to create interactive and user-friendly web interfaces.
 
 ********************
 ## Teaching Experience
-- **Invited Lecturer** (Feb 2021 - Jun 2022): Sound Prod. & Design (Music - FL Studio) (Bachelor students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran (3 semesters)
-- **Teaching Assistant** (Feb 2019 - Jun 2019): Simulation and Modeling of System 1 (VR lab) (Master students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran
-- **Teaching Assistant** (Sep 2015 - Feb 2016): Microprocessors and Assembly Language (Dr. Hassan Seyed Razi) Book: AVR microcontrollers by Dr. Hassan Seyed Razi, Kian Univ. Press, Shariaty Technical and Vocational Univ., Iran
+- **Invited Lecturer** ( 2022 - 2023): DataBase (my sql) (Bachelor students), Electrical and Computer Engineering Dept., Semnan Univ., Iran
+- **Invited Lecturer**  ( 2022 - 2024): Laboratory of computer networks (Cisco Packet Tracer) (Bachelor students), Electrical and Computer Engineering Dept., Semnan Univ., Iran
+- **Teaching Assistant** (Sep 2015 - Feb 2016): Teaching game development with Unity to senior students (Dr. Sediqi), Abrar Girls Technical Engineering University, Tehran, Iran
+- **Teaching Assistant** (Sep 2015 - Feb 2016): Teaching website design with php to senior students (Dr. Shiri), Abrar Girls Technical Engineering University, Tehran, Iran
 *******************
 ## Projects
 **Dialogue system (2019-Present)**
-*PHD thesis (Supervisor: Dr. Salimi)*
-- Kashan University, Iran
+*PHD thesis (Supervisor: Dr. Dorrigiv)*
+- Semnan University, Iran
 - Deep Reinforcment Learning
 - Graph embedding
 - Attention mechanism
+- Reward Learning
 - State representation learning
  
-**Air Pollution Prediction (Apr 2023 - Apr 2023)**
-*Non-academic*
+****COVID-19 Prediction ( 2021 -  2022)****
 - Linear regression, gradient boosting regression, k-neighbors regression, decision tree regression, and random forest regression
-- Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
  
-
-**POS Tagging FA (Sep 2020 - Feb 2021)**
-*Bi-LSTM-CNN*
-- Kashan University, Iran (Course: Machine Learning)
 
 **Troublesome Travel Game (2020)**
 *The first rank of Global Game Jam 2020*
 - Sharif University Of Technology
 - 3D game, Unity, C#
 - Atlas Team (Role:Programmer)
+  
+- **Implementation of an Application for Insurance (Sep 2015 - Feb 2016):** PHP language in Adobe Dreamweaver, Software engineering, Abrar Girls Technical Engineering University, Tehran, Iran
 - 
-**Implementation of Laboratory and Blood Bank Website (Sep 2016 - July 2017)**
-*thesis project for the Bachelor degree, Professor Musa Zadeh*
-- Shariaty Technical and Vocational University
-- Website design with PHP language under MVC architecture with CodeIgniter framework
-
-**Implementation of the Library Website (Feb 2016 - Aug 2016)**
-- Shariaty Technical and Vocational University (Course: Final project of Mr. Mouszadeh's web design class)
-- Website design with PHP language under MVC architecture with CodeIgniter framework
  *********************
 ## Small Projects
-- **COVID-19 Prediction (June 2021 - Sep 2021):** *RNN*, Neural Networks, Kashan University, Iran
-- **Face Mask Recognition (Feb 2021 - July 2021):** *VGG, Hopfield*, Neural network, Kashan University, Iran
-- **Bert-fa-finetune (Jan 2021 - June 2021):** *Non-academic*, Supervisor: Dr. Salimi, Persian-wikipedia-dataset, Kashan University, Iran
-- **Handwritten Digit Recognition (Farsi) (Jan 2021 - June 2021):** MLP, Hoda dataset, Pattern recognition, Kashan University, Iran
-- **Face Recognition (Sep 2020 - Feb 2021):** Paper implementation: Dissimilarity-based nearest neighbor classifier for single-sample face recognition (Zhengqi Zhang, Li Zhang, Meng Zhang), Pattern recognition, Kashan University, Iran
-- **Simulation of Physics and Projectile Motion Formulas (Feb 2019 - Feb 2020):** MATLAB image processing, Graphic Programming 1, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **Balance 2D Runner Game (2019):** *Serious Game Prizes (Hacatoon)*, Leading the Telma+ Team, Unity, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **'Khersi' Stop Motion (Sep 2018):** Special Effects, MultiMedia Department, Tabriz Islamic Art University, Iran
-- **Matt Shot Photography (Sep 2018):** Special Effects, MultiMedia Department, Tabriz Islamic Art University, Iran
 - **3D Happy Pencil Game (Feb 2019):** *Global Game Jam international event*, Game scoring system, Code and Play: [Happy Pencil](https://v3.globalgamejam.org/2019/games/happypencil), MultiMedia Department, Tabriz Islamic Art University, Iran
-- **Tourism Data Visualization (Feb 2018 - Aug 2018):** *Visualization of huge tourism data in the form of an application*, Processing software (Java), Visualization of Information, MultiMedia Department, Tabriz Islamic Art University, Iran
 - **2D Spider-Man Game (Aug 2017 - Aug 2017):** Game Maker software, Personal
-- **Hardware Simulation and Implementation of a Thermometer (Feb 2016 - June 2016):** *Microprocessor laboratory*, Proteus for AVR microcontroller simulations, Shariaty Technical and Vocational University
-- **Building a Basic Network (Sep 2016 - Feb 2017):** *Cisco Packet Tracer*, Internet Engineering, Shariaty Technical and Vocational University
-- **Implementation of an Application for Online Library (Sep 2015 - Feb 2016):** C# language in Visual Studio environment, Software engineering, Shariaty Technical and Vocational University
-- **Implementation of a Simple SLR Parser (Sep 2015 - Feb 2016):** *Borland C++*, Compiler design fundamentals, Shariaty Technical and Vocational University
 ***************************
 ## Awards
-
-- **Full fund with quota of brilliant talents (Sep 2020 - Present):** *Kashan University, Iran - PhD position in AI, Computer Engineering*
+- **The first rank of graduation of the Ph.D degree (Feb 2020):** *Tabriz Islamic Art University, Iran - MultiMedia Department*
 - **The second rank of graduation of the master's degree (Feb 2020):** *Tabriz Islamic Art University, Iran - MultiMedia Department*
 - **The first rank of Global Game Jam 2020 (2020):** *Sharif University Of Technology - Code and Play: [troublesome-travel](https://v3.globalgamejam.org/2020/games/troublesome-travel-9)*
-- **Winning the second place in the egg throwing competition of Shariati College (2014):** *Shariaty Technical and Vocational University*
 - **Awarded a prestigious full-fund scholarship from Allameh Tabatabai elite pre-university (2012)**
-- **Obtaining the second place in the region in drawing with colored pencils (2011):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
-- **Passing the first stage of the National Computer Olympiad (2010):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
 - **Obtaining the first place in the Robocup competition of the 10th region of Tehran province (2010):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
 *******************************
 ## Skills
