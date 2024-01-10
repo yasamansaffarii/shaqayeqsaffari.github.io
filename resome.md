@@ -1,6 +1,6 @@
 # Shaghayegh Saffari
 
-![Alt Text]
+
 **PhD Candidate - Semnan University, Iran**
 ***************************
 📧 Email: shaqayeq.saffari397@gmail.com
