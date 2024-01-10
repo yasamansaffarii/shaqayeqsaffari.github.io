@@ -1,6 +1,6 @@
 # Shaghayegh Saffari
 
-![Alt Text]([https://i.ibb.co/vvVfYt6/yasaman1.jpg](https://s6.uupload.ir/files/sh_eal7.jpeg)
+![Alt Text](https://s6.uupload.ir/files/sh_eal7.jpeg)
 **PhD Candidate - Semnan University, Iran**
 ***************************
 📧 Email: shaqayeq.saffari397@gmail.com
