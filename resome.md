@@ -1,6 +1,6 @@
 ![image](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/assets/94288799/197605db-cef2-493a-ad2d-18d666ffe8aa)# Shaghayegh Saffari
 
-![Alt Text](https://s6.uupload.ir/files/sh_eal7.jpeg)
+![Alt Text]
 **PhD Candidate - Semnan University, Iran**
 ***************************
 📧 Email: shaqayeq.saffari397@gmail.com
@@ -61,18 +61,6 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 ********************
 ## Lab and Visiting Experience
 
-### Acoustic Lab Researcher
-***Sep 2019 - Jan 2020***
-*MultiMedia Department, Tabriz Islamic Art University, Iran*
-- Collabrated and Established and managed the Acoustic Lab, including equipment setup and organization.
-- Utilized lab resources for specific aspects of my Master's thesis work, contributing to research and academic achievements.
-
-### VR Lab Development and Research
-***Sep 2018 - June 2019***
-*MultiMedia Department, Tabriz Islamic Art University, Iran*
-- Founded and managed the establishment of the VR lab, fostering a hub for cutting-edge research and innovation.
-- Conducted pioneering research in VR gaming applications.
-- Developed a unique "virtual dance teaching" application using VR and motion capture technology.
 
 ### Internship: Web Developer
 ***Feb 2016 - June 2016***
@@ -80,19 +68,11 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - Developed and maintained dynamic websites using XAMPP as the local server, Dreamweaver as the development environment, CodeIgniter as the PHP framework, and MySQL as the database.
 - Utilized HTML, CSS, JavaScript, and PHP to create interactive and user-friendly web interfaces.
 
-### Visiting student
-***Jun 2014 - Sep 2014***
-*Faculty of Computer Science and Engineering, Shahid Beheshti University, Tehran, Iran*
-- Course: Engineering Statistics
 ********************
 ## Teaching Experience
-- **Invited Lecturer** (Feb 2022 - **Present**): Simulation and Modeling of System 2 (Python and ML in Game and Art) (Master students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran (2 semesters)
-- **Teaching Assistant** (Sep 2023 - **Present**): Game Theory, Kashan University, Iran
 - **Invited Lecturer** (Feb 2021 - Jun 2022): Sound Prod. & Design (Music - FL Studio) (Bachelor students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran (3 semesters)
 - **Teaching Assistant** (Feb 2019 - Jun 2019): Simulation and Modeling of System 1 (VR lab) (Master students), MultiMedia Dept., Tabriz Islamic Art Univ., Iran
 - **Teaching Assistant** (Sep 2015 - Feb 2016): Microprocessors and Assembly Language (Dr. Hassan Seyed Razi) Book: AVR microcontrollers by Dr. Hassan Seyed Razi, Kian Univ. Press, Shariaty Technical and Vocational Univ., Iran
-- **Teaching Assistant** (Sep 2014 - Feb 2015): Electric Circuits Book: Fundamental Theory of Circuits and Networks, Vol. 1 (Ernest Cough - Charles Deso), Shariaty Technical and Vocational Univ., Iran
-- **Private Tutoring**: Personalized instruction in high school-level math and physics, incl. teaching classmates., Zahra Mardani(2) High school
 *******************
 ## Projects
 **Dialogue system (2019-Present)**
@@ -108,55 +88,17 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - Linear regression, gradient boosting regression, k-neighbors regression, decision tree regression, and random forest regression
 - Recurrent Neural Networks (RNN) and Long Short-Term Memory (LSTM)
  
-**Fine_Tune_XLSR_Wav2Vec2_FA (Apr 2023 - Apr 2023)**
-*Online speech to text (VAD)*
-- Kashan University, Iran (Supervisor: Dr. Salimi)
-- Transformers
-- Farsi
-- Non-academic
-
-**Spell Checker FA (May 2023 - May 2023)**
-*bert-base-parsbert-uncased*
-- Kashan University, Iran
-
-**Car Plate Detection (Jan 2022 - July 2022)**
-*Big project - non-academic (Supervisor: Dr. Salimi)*
-- Kashan University, Iran
-- Yolo5
-- Car plate and character detection
-- Dataset labeling
 
 **POS Tagging FA (Sep 2020 - Feb 2021)**
 *Bi-LSTM-CNN*
 - Kashan University, Iran (Course: Machine Learning)
-
-**Implmentation: ESS for Pool Population in the Presence of BWA Attack (Feb 2021 - Aug 2021)**
-- Kashan University, Iran (Course: Game Theory)
-- Python
 
 **Troublesome Travel Game (2020)**
 *The first rank of Global Game Jam 2020*
 - Sharif University Of Technology
 - 3D game, Unity, C#
 - Atlas Team (Role:Programmer)
- 
-**Voice Cloning of Voice Actors Using Deep Learning (Feb 2019 - Feb 2020)**
-*Master's thesis, Professor Abbas Ghaffari*
-- MultiMedia Department, Tabriz Islamic Art University, Iran
-- Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
- 
-**Virtual Dance Training System (Sep 2018 - May 2019)**
-*Display and performance at the fourth international exhibition of Tabriz creativity and innovation in handicrafts and Islamic arts International Exhibition - Multimedia Pavilion*
-- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Simulation and Modeling of System 1)
-- Virtual reality environment + motion capture + analysis of matching movements of the instructor and student by two heuristics
-- Praised by the president of the university
- 
-**Music Playlist Explorer Assistant (Sep 2018 - Feb 2019)**
-*Voice search and speech to text conversion*
-- MultiMedia Department, Tabriz Islamic Art University, Iran (Course: Advanced Artificial Intelligence)
-- Python
-- Google TTS
-
+- 
 **Implementation of Laboratory and Blood Bank Website (Sep 2016 - July 2017)**
 *thesis project for the Bachelor degree, Professor Musa Zadeh*
 - Shariaty Technical and Vocational University
