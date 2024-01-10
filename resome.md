@@ -7,9 +7,7 @@
 📞 Phone: +989377553744
 🌍 Location: Iran, Tehran
 ******************
-[LinkedIn](https://www.linkedin.com/in/yasaman-saffari-22b937181) | [Google Scholar](https://scholar.google.com/citations?user=wPtRMfYAAAAJ&hl=fa) | [Huggingface](https://huggingface.co/Yasamansaffari73)
- | [Researchgate](https://www.researchgate.net/profile/Yasaman-Saffari)
- | [Github]([https://github.com/yasamansaffarii](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/edit/main/resome.md))
+ [Github]([https://github.com/yasamansaffarii](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/edit/main/resome.md))
 **********************
 # About me
 I am currently pursuing my Ph.D. at [Semnan University](https://semnan.ac.ir/), under the guidance of [Dr. dorrigiv](https://dorrigiv.profile.semnan.ac.ir/#home). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
