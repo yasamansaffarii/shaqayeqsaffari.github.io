@@ -1,4 +1,4 @@
-# Shaghayegh Saffari
+![image](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/assets/94288799/197605db-cef2-493a-ad2d-18d666ffe8aa)# Shaghayegh Saffari
 
 ![Alt Text](https://s6.uupload.ir/files/sh_eal7.jpeg)
 **PhD Candidate - Semnan University, Iran**
@@ -28,25 +28,25 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 ## Education
 
 ### PhD in Artificial Intelligence
-***Kashan University, Iran***
-*2020 - Present*
-- Dr. Javad Salimi Sartakhti
-- Research: Dialogue Systems, Reinforcement Learning, State Representation Learning, Graph Representation Learning, Attention and Transformers
-- GPA: 3.81
+***Semnan University, Iran***
+*2021 - Present*
+- Dr. Morteza Dorrigiv
+- Research: Reward Learning in Dialogue Systems
+- GPA: 19.21/20
 
-### Master of Arts - Intelligent Simulator Design
-***Tabriz Islamic Art University, Iran***
-*2017 - 2019*
-- Dr. Abbass Ghaffari (Supervisor), Dr. Leila Dubakhti (The second instructor), Dr. Alizadeh (Advisor)
-- Thesis: Investigating the Effective Variables of Speech Phonology at the Audience Origin Using the Simulation of Lasting Voices in Dubbing (Voice Cloning using Deep Neural Networks)
-- GPA: 3.79
+### Master of Software Computer Engineering
+***Abrar Girls Technical Engineering University, Tehran, Iran***
+*2018 - 2020*
+- Dr. Mohammad Ebrahim Shiri
+- Thesis: Improve the tolerability of software bug levels by detecting software defects using machine learning
+- GPA: 19.23/20
 
 ### Bachelor of Software Computer Engineering
-***Shariaty Technical and Vocational University***
-*2014 - 2017*
-- Mr. Yousef MusaZadeh
-- Thesis: Blood Laboratory Website Design (PHP)
-- GPA: 3.46
+***Government-Technical and Engineering Buin Zahra University***
+*2015 - 2018*
+- Dr. Saman Shishehchi
+- Thesis: 
+- GPA: 15.60/20
 ********************
 ## Publications
 **Not published (Y Saffari, J Salimi Sartakhti)**
@@ -199,12 +199,12 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 
 **Current Skills**
 
-- Dialogue system, Attention Mechanism and Transformers, NLP, Graph embedding, Attention Mechanism and Transformers, Voice processing
-- Python, Tensorflow(Keras), VScode, Overleaf, FLstudio
+- Dialogue system, Attention Mechanism and Transformers, NLP, reward learning, Graph embedding, Attention Mechanism and Transformers
+- Python, Tensorflow(Keras), VScode, Anaconda, Overleaf
  
 **latent Skills**
-- Matlab, Unity, Zbrush, MakeHuman
-- HTCvive, Motion capture (Neuron Mocap (Axis Studio)),  VR (HTC VIVE)
+- Unity, Zbrush, GameMaker
+- VMware, Cisco Packet Tracer, Apache JMeter
 ****************************
 ## Languages
 - Persian
