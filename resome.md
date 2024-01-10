@@ -10,9 +10,9 @@
  [Github](https://github.com/shaqayeqsaffari/shaqayeqsaffari.github.io/edit/main/resome.md)
 **********************
 # About me
-I am currently pursuing my Ph.D. at [Semnan University](https://semnan.ac.ir/), under the guidance of [Dr. dorrigiv](https://dorrigiv.profile.semnan.ac.ir/#home). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for learning structural state representations by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN), aiming to enhance policy learning within discrete state-action spaces, with a special emphasis on dialogue systems.
+I am currently pursuing my Ph.D. at [Semnan University](https://semnan.ac.ir/), under the guidance of [Dr. dorrigiv](https://dorrigiv.profile.semnan.ac.ir/#home). My primary research focus revolves around Task-based Dialogue Systems within the framework of Reinforcement Learning (RL). Specifically, my work is dedicated to advancing Attentional and Graph-based methodologies for reward learning(reward shaping and bias) by incorporating both contextual and topological information in RL environments. Additionally, I explore Model-free RL algorithms, particularly variants of Deep Q-Networks (DQN) on dialogue systems.
 
-My master's degree is in Intelligent Simulator Design from Tabriz Islamic Art University, with a thesis focused on exploring the influential factors of speech phonology through simulating lasting voices in dubbing, employing Voice Cloning using Deep Neural Networks. In addition to my thesis, during the master's program, I developed a VR dance teaching application. I have professional experience with VR equipment such as HTCVIVE and Neuron Mocap. Furthermore, I have expertise in teaching music production in FL Studio.
+My master's degree is in the field of software engineering from Abrar University, with a thesis focusing on the evaluation of metrics that are effective in tolerating software faults and defects through detecting and fixing faults and defects in the set of static code metrics using deep neural networks. In addition to my thesis, in the master's program, I have professional experience with networking in VMware virtual machine environment and Cisco Packet Tracer and working with Apache JMeter for software performance testing.
 
 While I may not be perfect, I can assure you that I am committed to giving my best to learn and adapt to new challenges. I am open to delving into any field because I firmly believe that a truly impactful project demands a diverse skill set. You don't have to be perfect in every aspect, but having knowledge about all elements enables you to excel in your specific role and contribute to the success of the entire project.
 ************
@@ -20,7 +20,7 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - Dialogue Systems
 - DQN Variants
 - Attentional Based State Representation
-- Topological State Representation (Graphs)
+- Graphs
 - Reward Learning, Reward Shaping
 - Python
 - Tensorflow (Keras)
