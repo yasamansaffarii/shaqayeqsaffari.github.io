@@ -93,8 +93,8 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - **2D Spider-Man Game (Aug 2017 - Aug 2017):** Game Maker software, Personal
 ***************************
 ## Awards
-- **The first rank of graduation of the Ph.D degree (Feb 2023):** *Tabriz Islamic Art University, Iran - MultiMedia Department*
-- **The first rank of graduation of the master's degree (June 2020):** *Tabriz Islamic Art University, Iran - MultiMedia Department*
+- **The first rank of graduation of the Ph.D degree (Feb 2023):** *Electrical and Computer Engineering Dept., Semnan Univ., Semnan, Iran*
+- **The first rank of graduation of the master's degree (June 2020):** *Abrar Girls Technical Engineering University, Tehran, Iran- MultiMedia Department*
 - **The first rank of Global Game Jam 2020 (2020):** *Sharif University Of Technology - Code and Play: [troublesome-travel](https://v3.globalgamejam.org/2020/games/troublesome-travel-9)*
 - **Awarded a prestigious full-fund scholarship from Allameh Tabatabai elite pre-university (2013)**
 - **Obtaining the third rank in the Robocup competition of the 11th region of Tehran province (2011):** *Zahra Mardani High School for Girls 2, Tehran, Iran*
