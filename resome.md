@@ -57,7 +57,7 @@ While I may not be perfect, I can assure you that I am committed to giving my be
 - 
 ********************
 ## Article Reviewer
-- **JETAI Reviewer** Reviewer, Journal of Experimental & Theoretical Artificial Intelligence (JETAI) 
+- **JETAI Reviewer** Reviewer(Jul 2023-Present), Journal of Experimental & Theoretical Artificial Intelligence (JETAI) 
 ********************
 ## Teaching Experience
 - **Invited Lecturer** ( 2022 - 2023): DataBase (my sql) (Bachelor students), Electrical and Computer Engineering Dept., Semnan Univ., Iran
